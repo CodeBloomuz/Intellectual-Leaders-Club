@@ -6,9 +6,7 @@ from aiogram.types import (
 INTERESTS = [
     "🔬 Ilmiy-tadqiqot",
     "💡 Innovatsion va startap",
-    "🎯 Liderlik va shaxsiy rivojlanish",
     "🧠 Intellektual va madaniy-ma'rifiy",
-    "🤝 Hamkorlik va tashqi aloqalar",
     "📢 Axborot va targ'ibot",
 ]
 
